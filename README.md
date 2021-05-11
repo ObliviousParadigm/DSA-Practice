@@ -8,6 +8,8 @@ Just trying to learn C++.
 
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 
+2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
+
 ### String
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
