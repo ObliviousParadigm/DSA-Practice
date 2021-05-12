@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -11,21 +11,12 @@ public:
         int i = 0, j = 0, k = 0;
         int count = 0;
 
-        while (j < n)
+        for (i = 0; i < (n - 2); ++i)
         {
-            cout << arr[j] << " ";
-            ++j;
-        }
-
-        cout << endl;
-
-        for (i = 0; i < n; ++i)
-        {
-            for (j = i + 1; j < n; ++j)
+            for (j = i + 1; j < (n - 1); ++j)
             {
                 for (k = j + 1; k < n; ++k)
                 {
-                    cout << arr[i] << "+" << arr[j] << "=" << arr[k] << endl;
                     if ((arr[i] + arr[j]) == arr[k])
                     {
                         count += 1;
@@ -34,15 +25,24 @@ public:
                 }
             }
         }
-
-        // Mistake here is that I'm only checking the very next numbers and not ahead of them
-        // while(i+2<n)
-        // {
-        //     cout<<arr[i]<<"+"<<arr[i+1]<<"="<<arr[i+2]<<endl;
-        //     if ((arr[i] + arr[i+1]) == arr[i+2])
-        //         count += 1;
-        //         ++i;
-        //     }
         return count;
     }
 };
+
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cin >> n;
+
+        int arr[n];
+        for (int i = 0; i < n; i++)
+            cin >> arr[i];
+
+        Solution ob;
+        cout << ob.countTriplet(arr, n) << "\n";
+    }
+}
