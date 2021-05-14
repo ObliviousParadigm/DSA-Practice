@@ -19,10 +19,14 @@ Just trying to learn C++.
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 ## Study References
 
-[Fork-CPP](https://practice.geeksforgeeks.org/courses/fork-cpp)
+[GFG - C++](https://www.geeksforgeeks.org/c-plus-plus/)
+
+[Fork - CPP](https://practice.geeksforgeeks.org/courses/fork-cpp)
 
 [Classes](https://www.geeksforgeeks.org/c-classes-and-objects/)
 
 [Sum of Subarrays](https://www.geeksforgeeks.org/sum-of-all-subarrays/)
 
 [Subsequences](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
+
+[Namespace std](https://www.youtube.com/watch?v=4NYC-VU-svE&t=610s)
