@@ -10,6 +10,8 @@ Just trying to learn C++.
 
 2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
 
+3. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+
 ### String
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
