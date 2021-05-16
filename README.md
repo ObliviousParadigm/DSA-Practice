@@ -19,6 +19,7 @@ Just trying to learn C++.
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
 ## Study References
 
 [GFG - C++](https://www.geeksforgeeks.org/c-plus-plus/)
@@ -32,3 +33,9 @@ Just trying to learn C++.
 [Subsequences](https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)
 
 [Namespace std](https://www.youtube.com/watch?v=4NYC-VU-svE&t=610s)
+
+[Memory Leak](https://www.cdn.geeksforgeeks.org/what-is-memory-leak-how-can-we-avoid/)
+
+Extra info: A memory leak is bad because it blocks memory resources and degrades system performance over time.
+
+[Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
