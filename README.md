@@ -1,4 +1,4 @@
-# 100daysofCpp
+# Learn C++
 
 Just trying to learn C++.
 
