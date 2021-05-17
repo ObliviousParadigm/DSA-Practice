@@ -18,6 +18,8 @@ Just trying to learn C++.
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 
+2. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
@@ -41,3 +43,7 @@ Just trying to learn C++.
 Extra info: A memory leak is bad because it blocks memory resources and degrades system performance over time.
 
 [Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
+
+## STL
+
+[Permutations of a given string using STL](https://www.geeksforgeeks.org/permutations-of-a-given-string-using-stl/)
