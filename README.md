@@ -22,6 +22,10 @@ Just trying to learn C++.
 
 2. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
 
+### Linked List
+
+1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
@@ -45,6 +49,12 @@ Just trying to learn C++.
 Extra info: A memory leak is bad because it blocks memory resources and degrades system performance over time.
 
 [Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
+
+[Linked List | Set 1 (Introduction)](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+
+[Linked List | Set 2 (Inserting a node)](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
+
+[Linked List | Set 3 (Deleting a node)](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
 
 ## STL
 
