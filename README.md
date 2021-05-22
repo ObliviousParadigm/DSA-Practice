@@ -50,11 +50,7 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 
 [Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
-[Linked List | Set 1 (Introduction)](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-
-[Linked List | Set 2 (Inserting a node)](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
-
-[Linked List | Set 3 (Deleting a node)](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
+[Linked List Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList)
 
 ## STL
 
