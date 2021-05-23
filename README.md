@@ -8,7 +8,7 @@ Just trying to learn C++.
 
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 
-2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
+2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1) Not finished
 
 3. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 
@@ -16,11 +16,15 @@ Just trying to learn C++.
 
 5. [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
 
+6. [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) Giving SEG FAULT
+
 ### String
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 
 2. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+
+3. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
 
 ### Linked List
 
