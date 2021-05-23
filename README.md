@@ -32,6 +32,8 @@ Just trying to learn C++.
 
 2. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 
+3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1#)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
