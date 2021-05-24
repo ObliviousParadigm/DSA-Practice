@@ -34,6 +34,10 @@ Just trying to learn C++.
 
 3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1#)
 
+### Stack and Queue
+
+1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
