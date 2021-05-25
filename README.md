@@ -46,6 +46,8 @@ Just trying to learn C++.
 
 [LeetCode](https://leetcode.com/problemset/all/)
 
+[Daily Challenge](Daily_Challenge/README.md)
+
 ## Study References
 
 [GFG - C++](https://www.geeksforgeeks.org/c-plus-plus/)
