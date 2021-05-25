@@ -44,7 +44,7 @@ Just trying to learn C++.
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
-(LeetCode)[https://leetcode.com/problemset/all/]
+[LeetCode](https://leetcode.com/problemset/all/)
 
 ## Study References
 
