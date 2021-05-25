@@ -18,6 +18,8 @@ Just trying to learn C++.
 
 6. [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) Giving SEG FAULT
 
+7. [Two Sum](https://leetcode.com/problems/two-sum/)
+
 ### String
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
@@ -41,6 +43,8 @@ Just trying to learn C++.
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+(LeetCode)[https://leetcode.com/problemset/all/]
 
 ## Study References
 
