@@ -36,6 +36,8 @@ Just trying to learn C++.
 
 3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1#)
 
+4. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
 ### Stack and Queue
 
 1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
