@@ -50,6 +50,8 @@ Just trying to learn C++.
 
 2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
+3. [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+
 ### Backtracking
 
 1. [Permutations](https://leetcode.com/problems/permutations/)
