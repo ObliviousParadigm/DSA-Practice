@@ -28,6 +28,8 @@ Just trying to learn C++.
 
 3. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
 
+4. [Reverse String](https://leetcode.com/problems/reverse-string/)
+
 ### Linked List
 
 1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
