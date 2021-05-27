@@ -48,6 +48,12 @@ Just trying to learn C++.
 
 1. [Single Number](https://leetcode.com/problems/single-number/)
 
+2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+### Backtracking
+
+1. [Permutations](https://leetcode.com/problems/permutations/)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
