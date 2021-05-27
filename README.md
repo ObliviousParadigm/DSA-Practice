@@ -44,6 +44,10 @@ Just trying to learn C++.
 
 1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 
+### Hash Table
+
+1. [Single Number](https://leetcode.com/problems/single-number/)
+
 ## Problem References
 
 [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
