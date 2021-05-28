@@ -40,9 +40,13 @@ Just trying to learn C++.
 
 4. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+5. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
 ### Stack and Queue
 
 1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+
+2. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 ### Hash Table
 
@@ -55,6 +59,10 @@ Just trying to learn C++.
 ### Backtracking
 
 1. [Permutations](https://leetcode.com/problems/permutations/)
+
+### Bit Manipulation
+
+1. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
 ## Problem References
 
