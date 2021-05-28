@@ -86,6 +86,8 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 
 [Linked List Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList)
 
+[BIT Manipulation in 11 minutes](https://www.youtube.com/watch?v=MiJdgxTWaFs)
+
 ## STL
 
 [Permutations of a given string using STL](https://www.geeksforgeeks.org/permutations-of-a-given-string-using-stl/)
