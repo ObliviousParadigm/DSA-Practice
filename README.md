@@ -64,6 +64,10 @@ Just trying to learn C++.
 
 1. [Permutations](https://leetcode.com/problems/permutations/)
 
+2. [Subsets](https://leetcode.com/problems/subsets/)
+
+3. [Subsets II](https://leetcode.com/problems/subsets-ii/)
+
 ### Bit Manipulation
 
 1. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
