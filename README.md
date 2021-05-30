@@ -20,6 +20,10 @@ Just trying to learn C++.
 
 7. [Two Sum](https://leetcode.com/problems/two-sum/)
 
+8. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+
+9. [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+
 ### String
 
 1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
@@ -92,9 +96,13 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 
 [Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
+[BIT Manipulation in 11 minutes](https://www.youtube.com/watch?v=MiJdgxTWaFs)
+
+## Data Structures
+
 [Linked List Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList)
 
-[BIT Manipulation in 11 minutes](https://www.youtube.com/watch?v=MiJdgxTWaFs)
+[Binary Tree Data Structure](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
 ## STL
 
