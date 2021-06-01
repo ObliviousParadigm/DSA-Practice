@@ -7,7 +7,7 @@ class Solution
 public:
     int board[9][9];
 
-    bool isSafe(int n, int row, int col)
+    bool isSafe(int row, int col, int n)
     {
         // Column
         for (int i = 0; i < row; ++i)
@@ -17,7 +17,6 @@ public:
                 return false;
             }
         }
-
         // 45deg diagonal
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; --i, ++j)
         {
@@ -26,7 +25,6 @@ public:
                 return false;
             }
         }
-
         // 135deg diagonal
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; --i, --j)
         {
@@ -35,11 +33,10 @@ public:
                 return false;
             }
         }
-
         return true;
     }
 
-    void solveNQueensUtil(vector<vector<string>> &result, int n, int row)
+    void totalNQueensUtil(vector<vector<string>> &result, int n, int row)
     {
         if (row == n)
         {
@@ -61,28 +58,25 @@ public:
                 ans.push_back(x);
             }
             result.push_back(ans);
-            return;
         }
 
         for (int col = 0; col < n; ++col)
         {
-            if (isSafe(n, row, col))
+            if (isSafe(row, col, n))
             {
                 board[row][col] = 1;
-                solveNQueensUtil(result, n, row + 1);
+                totalNQueensUtil(result, n, row + 1);
                 board[row][col] = 0;
             }
         }
     }
 
-    vector<vector<string>> solveNQueens(int n)
+    int totalNQueens(int n)
     {
         vector<vector<string>> result;
 
-        char chess[n][n];
+        totalNQueensUtil(result, n, 0);
 
-        solveNQueensUtil(result, n, 0);
-
-        return result;
+        return result.size();
     }
 };

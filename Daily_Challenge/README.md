@@ -10,4 +10,6 @@
 
 [Maximum Product of Word Lengths](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/601/week-4-may-22nd-may-28th/3757/) - [Code](may27.cpp)
 
+[N-Queens II](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/602/week-5-may-29th-may-31st/3760/) - [Code](may29.cpp)
+
 [Maximum Gap](https://leetcode.com/problems/maximum-gap/)  - [Code](may30.cpp)

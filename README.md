@@ -72,7 +72,9 @@ Just trying to learn C++.
 
 5. [N-Queens](https://leetcode.com/problems/n-queens/)
 
-6. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+6. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+
+7. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
 ### Bit Manipulation
 
