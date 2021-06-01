@@ -68,6 +68,12 @@ Just trying to learn C++.
 
 3. [Subsets II](https://leetcode.com/problems/subsets-ii/)
 
+4. [Rat in a Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)
+
+5. [N-Queens](https://leetcode.com/problems/n-queens/)
+
+6. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+
 ### Bit Manipulation
 
 1. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
@@ -102,11 +108,13 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 
 [BIT Manipulation in 11 minutes](https://www.youtube.com/watch?v=MiJdgxTWaFs)
 
-## Data Structures
+## Data Structures and Algorithms
 
 [Linked List Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList)
 
 [Binary Tree Data Structure](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
+[Backtracking Algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
 
 ## STL
 
