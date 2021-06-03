@@ -2,46 +2,44 @@
 
 using namespace std;
 
+//User function template for C++
 class Solution
 {
 public:
     int countTriplet(int arr[], int n)
     {
         sort(arr, arr + n);
-        int i = 0, j = 0;
-        vector<int> s;
+        int i = 0, k = n - 1;
+        int j = k - 1;
+
         int count = 0;
+        int comp = INT_MIN;
 
-        for (i = 0; i < (n - 2); ++i)
+        while (k > 1)
         {
-            for (j = i + 1; j < (n - 1); ++j)
-            {
-                s.push_back(arr[i] + arr[j]);
-            }
-        }
-        
-        for (auto it = s.begin(); it != s.end(); ++it)
-        {
-            auto f = find(arr, arr+n, *it);
-            if (f != (arr+n))
-            {
-                count += 1;
-            }
-        }
+            i = 0;
+            j = k - 1;
 
+            while (i < j)
+            {
+                if (arr[i] + arr[j] == arr[k])
+                {
+                    ++i;
+                    --j;
+                    ++count;
+                }
+                else if (arr[i] + arr[j] < arr[k])
+                {
+                    ++i;
+                }
+                else
+                {
+                    // arr[i] + arr[j] > arr[k]
+                    --j;
+                }
+            }
+            --k;
+        }
         return count;
     }
 };
-
-int main()
-{
-    int n;
-    cin >> n;
-
-    int arr[n];
-    for (int i = 0; i < n; i++)
-        cin >> arr[i];
-
-    Solution ob;
-    cout << ob.countTriplet(arr, n) << "\n";
-}

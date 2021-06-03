@@ -8,7 +8,7 @@ Just trying to learn C++.
 
 1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 
-2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1) Not finished
+2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
 
 3. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 
