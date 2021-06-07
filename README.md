@@ -62,6 +62,8 @@ Just trying to learn C++.
 
 3. [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 
+4. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
 ### Backtracking
 
 1. [Permutations](https://leetcode.com/problems/permutations/)
