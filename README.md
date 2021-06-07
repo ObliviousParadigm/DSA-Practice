@@ -78,6 +78,8 @@ Just trying to learn C++.
 
 7. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
+8. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
 ### Bit Manipulation
 
 1. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
@@ -119,6 +121,8 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 [Binary Tree Data Structure](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
 [Backtracking Algorithms](https://www.geeksforgeeks.org/backtracking-algorithms/)
+
+[Recursion and Backtracking](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/)
 
 ## STL
 
