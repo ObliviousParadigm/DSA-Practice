@@ -6,85 +6,91 @@ Just trying to learn C++.
 
 ### Arrays
 
-1. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
+01. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
 
-2. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
+02. [Count the triplets](https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1)
 
-3. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+03. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 
-4. [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+04. [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
 
-5. [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
+05. [Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
 
-6. [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) Giving SEG FAULT
+06. [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) Giving SEG FAULT
 
-7. [Two Sum](https://leetcode.com/problems/two-sum/)
+07. [Two Sum](https://leetcode.com/problems/two-sum/)
 
-8. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+08. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
-9. [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+09. [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
 ### String
 
-1. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
+01. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
 
-2. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+02. [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
 
-3. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
+03. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
 
-4. [Reverse String](https://leetcode.com/problems/reverse-string/)
+04. [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 ### Linked List
 
-1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+01. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 
-2. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+02. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 
-3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1#)
+03. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1#)
 
-4. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+04. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
-5. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+05. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 
-6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+06. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ### Stack and Queue
 
-1. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+01. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 
-2. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+02. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 ### Hash Table
 
-1. [Single Number](https://leetcode.com/problems/single-number/)
+01. [Single Number](https://leetcode.com/problems/single-number/)
 
-2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+02. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-3. [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+03. [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 
-4. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+04. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 ### Backtracking
 
-1. [Permutations](https://leetcode.com/problems/permutations/)
+01. [Permutations](https://leetcode.com/problems/permutations/)
 
-2. [Subsets](https://leetcode.com/problems/subsets/)
+02. [Subsets](https://leetcode.com/problems/subsets/)
 
-3. [Subsets II](https://leetcode.com/problems/subsets-ii/)
+03. [Subsets II](https://leetcode.com/problems/subsets-ii/)
 
-4. [Rat in a Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)
+04. [Rat in a Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)
 
-5. [N-Queens](https://leetcode.com/problems/n-queens/)
+05. [N-Queens](https://leetcode.com/problems/n-queens/)
 
-6. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+06. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 
-7. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+07. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
-8. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+08. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+09. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
+
+10. [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
+
+11. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 
 ### Bit Manipulation
 
-1. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
 ## Problem References
 
