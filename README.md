@@ -24,6 +24,10 @@ Just trying to learn C++.
 
 09. [Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
+10. [Majority Element](https://leetcode.com/problems/majority-element/)
+
+11. [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
 ### String
 
 01. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
@@ -95,6 +99,12 @@ Just trying to learn C++.
 ### Bit Manipulation
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+
+### Random
+
+01. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+02. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
 ## Problem References
 
