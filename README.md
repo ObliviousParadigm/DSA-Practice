@@ -90,6 +90,8 @@ Just trying to learn C++.
 
 12. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 
+13. [Permutations II](https://leetcode.com/problems/permutations-ii/)
+
 ### Bit Manipulation
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
