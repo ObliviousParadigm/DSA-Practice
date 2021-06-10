@@ -88,6 +88,8 @@ Just trying to learn C++.
 
 11. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 
+12. [Next Permutation](https://leetcode.com/problems/next-permutation/)
+
 ### Bit Manipulation
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
