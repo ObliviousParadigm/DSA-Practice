@@ -2,7 +2,7 @@
 
 Just trying to learn C++.
 
-## Problems
+## Problems (Count: 44)
 
 ### Arrays
 
@@ -27,6 +27,10 @@ Just trying to learn C++.
 10. [Majority Element](https://leetcode.com/problems/majority-element/)
 
 11. [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+
+12. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+13. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ### String
 
@@ -100,6 +104,8 @@ Just trying to learn C++.
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
+### Binary Tree
+
 ### Random
 
 01. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -135,6 +141,8 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 [Variable Length Arrays](https://www.cdn.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
 [BIT Manipulation in 11 minutes](https://www.youtube.com/watch?v=MiJdgxTWaFs)
+
+[C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 
 ## Data Structures and Algorithms
 

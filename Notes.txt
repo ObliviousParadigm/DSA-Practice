@@ -1,0 +1,8 @@
+Be good with basics of dp and backtracking
+DP is important
+
+Arrays and string
+
+House robber
+Stocks - when to sell
+Number of steps
