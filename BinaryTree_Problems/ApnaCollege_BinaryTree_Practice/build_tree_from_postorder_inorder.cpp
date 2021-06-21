@@ -26,14 +26,15 @@ Node *buildTree(vector<int> postorder, vector<int> inorder, int start, int end)
     }
 
     int curr = postorder[index];
+    index--;
     Node *node = new Node(curr);
-    --index;
 
     if (start == end)
     {
         return node;
     }
 
+    cout << curr << endl;
     int pos = *find(inorder.begin(), inorder.end(), curr);
     node->right = buildTree(postorder, inorder, pos + 1, end);
     node->left = buildTree(postorder, inorder, start, pos - 1);
@@ -41,16 +42,16 @@ Node *buildTree(vector<int> postorder, vector<int> inorder, int start, int end)
     return node;
 }
 
-void printTree(Node *root)
+void printInorder(Node *root)
 {
     if (root == NULL)
     {
         return;
     }
 
-    printTree(root->left);
+    printInorder(root->left);
     cout << root->data << " ";
-    printTree(root->right);
+    printInorder(root->right);
 }
 
 int main()
@@ -59,7 +60,8 @@ int main()
     vector<int> inorder({4, 2, 1, 5, 3});
 
     Node *root = buildTree(postorder, inorder, 0, inorder.size() - 1);
-    printTree(root);
+
+    printInorder(root);
 
     return 0;
 }

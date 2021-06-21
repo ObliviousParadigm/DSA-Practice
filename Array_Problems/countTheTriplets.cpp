@@ -13,7 +13,6 @@ public:
         int j = k - 1;
 
         int count = 0;
-        int comp = INT_MIN;
 
         while (k > 1)
         {
