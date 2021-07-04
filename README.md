@@ -38,6 +38,8 @@ Just trying to learn C++.
 
 16. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
+17. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 ### String
 
 01. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
@@ -47,6 +49,8 @@ Just trying to learn C++.
 03. [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#)
 
 04. [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+05. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 ### Linked List
 
@@ -106,6 +110,10 @@ Just trying to learn C++.
 
 13. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 
+14. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+
+15. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
 ### Bit Manipulation
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
@@ -129,6 +137,12 @@ Just trying to learn C++.
 08. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 09. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+10. [Transform to Sum Tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1#)
+
+11. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+### Dynamic Programming
 
 ### Random
 

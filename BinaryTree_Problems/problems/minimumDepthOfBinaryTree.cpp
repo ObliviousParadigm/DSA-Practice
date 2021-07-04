@@ -1,7 +1,3 @@
-#include <bits/stdc++.h>
-
-using namespace std;
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -23,6 +19,10 @@ public:
             return 0;
         }
 
-        return min(minDepth(root->left), minDepth(root->right)) + 1;
+        if (root->left && root->right)
+        {
+            return min(minDepth(root->left), minDepth(root->right)) + 1;
+        }
+        return max(minDepth(root->left), minDepth(root->right)) + 1;
     }
 };
