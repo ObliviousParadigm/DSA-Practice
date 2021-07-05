@@ -10,26 +10,33 @@ int dp_table[102][1002] = {-1};
 
 int knapsack(int wt[], int val[], int W, int n)
 {
-    if (n == 0 || W == 0)
+    int dp[n + 1][W + 1];
+
+    for (int i = 0; i < n + 1; ++i)
     {
-        return 0;
+        for (int j = 0; j < W + 1; ++j)
+        {
+            if (i == 0 || j == 0)
+                dp[i][j] = 0;
+        }
     }
 
-    if (dp_table[n][W] != -1)
+    for (int i = 1; i < n + 1; ++i)
     {
-        return dp_table[n][W];
+        for (int j = 1; j < W + 1; ++j)
+        {
+            if (wt[i - 1] <= W)
+            {
+                dp[i][j] = max(val[i - 1] + dp[i - 1][j - wt[i-1]], dp[i-1][j]);
+            }
+            else
+            {
+                dp[i][j] = dp[i-1][j];
+            }
+        }
     }
 
-    if (W - wt[n - 1] >= 0)
-    {
-        dp_table[n][W] = max(val[n - 1] + knapsack(wt, val, W - wt[n - 1], n - 1), knapsack(wt, val, W, n - 1));
-        return dp_table[n][W];
-    }
-    else
-    {
-        dp_table[n - 1][W] = knapsack(wt, val, W, n - 1);
-        return dp_table[n][W];
-    }
+    return dp[n][W];
 }
 
 int main()
