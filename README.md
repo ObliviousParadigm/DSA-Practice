@@ -1,6 +1,4 @@
-# Learn C++
-
-Just trying to learn C++.
+# Coding Interview prep
 
 ## Problems (Count: 57)
 
@@ -40,6 +38,20 @@ Just trying to learn C++.
 
 17. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
+18. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+
+19. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+20. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+21. [Missing Number](https://leetcode.com/problems/missing-number/)
+
+22. [Binary Search](https://leetcode.com/problems/binary-search/)
+
+23. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
+24. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 ### String
 
 01. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
@@ -51,6 +63,8 @@ Just trying to learn C++.
 04. [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 05. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+06. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ### Linked List
 
@@ -66,11 +80,13 @@ Just trying to learn C++.
 
 06. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-### Stack and Queue
+### Stack
 
 01. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 
 02. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
+### Queue
 
 ### Hash Table
 
@@ -114,6 +130,8 @@ Just trying to learn C++.
 
 15. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
+16. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
 ### Bit Manipulation
 
 01. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
@@ -143,6 +161,20 @@ Just trying to learn C++.
 11. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ### Dynamic Programming
+
+01. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+
+02. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+03. [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+
+04. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=4&query=category[]Dynamic%20Programmingpage4category[]Dynamic%20Programming)
+
+05. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+
+06. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+07. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#)
 
 ### Random
 
