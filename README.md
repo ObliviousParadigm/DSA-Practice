@@ -1,6 +1,6 @@
-# Coding Interview prep
+# DSA
 
-## Problems (Count: 57)
+## Problems 
 
 ### Arrays
 
@@ -46,11 +46,25 @@
 
 21. [Missing Number](https://leetcode.com/problems/missing-number/)
 
-22. [Binary Search](https://leetcode.com/problems/binary-search/)
+22. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
-23. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+23. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
 
-24. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+24. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+25. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+26. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+27. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+28. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+29. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+30. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+31. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 ### String
 
@@ -66,6 +80,8 @@
 
 06. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
+07. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+
 ### Linked List
 
 01. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
@@ -80,6 +96,10 @@
 
 06. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
+07. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+08. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
 ### Stack
 
 01. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
@@ -87,6 +107,10 @@
 02. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 ### Queue
+
+01. [Binary Search](https://leetcode.com/problems/binary-search/)
+
+02. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 ### Hash Table
 
@@ -97,6 +121,10 @@
 03. [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 
 04. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
+05. [Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+06. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 ### Backtracking
 
@@ -175,6 +203,24 @@
 06. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 07. [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1#)
+
+08. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+### Sliding Window
+
+01. [Max Sum Subarray of size K](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+
+02. [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/)
+
+### Binary Search
+
+01. [Binary Search](https://leetcode.com/problems/binary-search/)
+
+02. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+
+03. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
+04. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ### Random
 

@@ -7,7 +7,6 @@ class Solution
 public:
     int maxProfit(vector<int> &prices)
     {
-
         int n = prices.size();
         int curr_max = prices[n - 1];
         int profit = 0;
