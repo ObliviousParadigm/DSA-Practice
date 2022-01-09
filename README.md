@@ -260,6 +260,8 @@ Extra info: A memory leak is bad because it blocks memory resources and degrades
 
 [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 
+[14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
 ## Data Structures and Algorithms
 
 [Linked List Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList)
